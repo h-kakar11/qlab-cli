@@ -1,0 +1,7 @@
+# Values here override every vendor, for this ticker only.
+# field,value    (k/m/b/t suffixes and % are understood)
+#
+# wacc,0.091
+# normalised_eps,4.20
+# segment_revenue_datacenter,115b
+

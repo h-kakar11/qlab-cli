@@ -1,0 +1,13 @@
+# Example only — these are made-up values, not market data.
+ticker=EXAMPLE
+currency=USD
+price=100
+fcf_year_t=100000000
+fcf_final_year=110408080.32
+forecast_years=5
+fcf_forecast_growth_rate=0.02
+discount_rate=0.10
+terminal_growth_rate=0.025
+shares_outstanding=10000000
+cash=50000000
+debt=20000000
